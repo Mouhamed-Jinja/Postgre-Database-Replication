@@ -1,5 +1,7 @@
 # Supercharge Your Database, Unleashing High-Load Reads with Database Replication 
 
+<img width="486" alt="Screenshot 2024-01-23 143557" src="https://github.com/Mouhamed-Jinja/Postgres-Database-Replication/assets/132110499/aebde922-f9f4-47c4-bd89-a8eeb15f2058">
+
 In this Repo, let's delve into the fundamentals of database replication and uncover the multitude of advantages it brings. As we navigate through this journey, we'll discover how database replication becomes a crucial precursor for addressing high-load reads, laying the foundation for the seamless integration of Database Sharding. Join me as we unravel the keys to unlocking an efficient, high-performance database landscape.
 
 
